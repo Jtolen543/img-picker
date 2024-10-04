@@ -1,0 +1,9 @@
+a {
+text-decoration: none;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
